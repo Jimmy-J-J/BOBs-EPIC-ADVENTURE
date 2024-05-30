@@ -1,17 +1,14 @@
-This is Bob's Epic Adventure.
-It is a 2D platformer that I am working on for an assessment.
+So, this is the alpha version of Bob's Epic Adventure!
 
-The criteria was that I had to create a game for children, which is why Bob looks so good.
+As I upload, I'll keep the previous versions attached for a record (even though they have designated pages).
 
-A friend in my class said this game would fail me, but I think not.
-I have faith in Bob, and I think this will turn out to be a masterpiece.
+So, What have I done in this version?
 
-Feedback would be appreciated, and I will probably upload a few versions before I have to submit it.
-Who knows, I might even expand on it outside of school. 
-
-P.S. I have had to upload it as a 7z file because the zip file was too big for Github. It can be unzipped exactly like a zip file, and it is only for windows at the moment.
-
-P.P.S. Below is a picture of Bob (he's very cool)
+- Completed level 3.
+- Added enemies
+- Started creation on level 4 (final level).
+- Changed textures of levels so that they are different and there is variety.
+- Fixed formatting for timer record and coin count (the pages between levels).
 
 ![Bob](https://github.com/Jimmy-J-J/BOBs-EPIC-ADVENTURE/assets/168947824/070f7e4f-d65c-442a-8707-7b5df5f82504)
 
