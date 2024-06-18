@@ -1,6 +1,5 @@
 This is the beta version of Bob's Epic Adventure!
 
-This is the version that is being submitted for the assessment!
 I have not put this as the final version because I am planning to add something else when I don't have school to attend to.
 
 What has been added?
